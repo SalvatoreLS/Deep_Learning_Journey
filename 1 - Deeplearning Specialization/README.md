@@ -11,6 +11,7 @@ The purpose of this repository is to document my journey in learning deep learni
 - **Neural Network**: A neural network with one hidden layer.
 - **Deep Neural Network**: A neural network with an higher number of layers.
 - **Optimized NN**: Implemented optimization algorithms and parameters initialization to show the different results obtained.
+- **Regularization**: Showing the effect of regularization on training when dealing with overfitted models.
 
 ### Work in Progress
 
@@ -27,4 +28,4 @@ I decided not to publish the assignments and solutions from the Coursera Deep Le
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
