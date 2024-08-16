@@ -12,6 +12,7 @@ The purpose of this repository is to document my journey in learning deep learni
 - **Deep Neural Network**: A neural network with an higher number of layers.
 - **Optimized NN**: Implemented optimization algorithms and parameters initialization to show the different results obtained.
 - **Regularization**: Showing the effect of regularization on training when dealing with overfitted models.
+- **Convolutional Model**: Introducing convolutional neural networks and new concepts like convolutions, pooling and padding.
 
 ### Work in Progress
 
