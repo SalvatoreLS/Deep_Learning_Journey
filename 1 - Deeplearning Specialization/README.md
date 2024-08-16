@@ -29,4 +29,4 @@ I decided not to publish the assignments and solutions from the Coursera Deep Le
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
