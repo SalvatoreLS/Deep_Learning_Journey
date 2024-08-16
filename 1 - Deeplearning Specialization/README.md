@@ -13,7 +13,7 @@ The purpose of this repository is to document my journey in learning deep learni
 - **Optimized NN**: Implemented optimization algorithms and parameters initialization to show the different results obtained.
 - **Regularization**: Showing the effect of regularization on training when dealing with overfitted models.
 - **Convolutional Model**: Introducing convolutional neural networks and new concepts like convolutions, pooling and padding.
-- **Classic ConvNets**: Comparing three classic convolutional neural networks, crucial for the development of deep learning for visual task.
+- **Classic ConvNets**: Comparing three classic convolutional neural networks, crucial for the development of deep learning for visual tasks.
 
 ### Work in Progress
 
