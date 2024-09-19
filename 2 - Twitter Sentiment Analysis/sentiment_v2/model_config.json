@@ -1,0 +1,1 @@
+{"max_sequence_length": 100, "padding_strategy": "post", "truncating_strategy": "post", "vocab_size": 50000, "embedding_dim": 100}
