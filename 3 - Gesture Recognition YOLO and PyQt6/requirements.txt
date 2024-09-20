@@ -1,0 +1,4 @@
+tensorflow
+opencv-python
+PyQt6
+ultralytics

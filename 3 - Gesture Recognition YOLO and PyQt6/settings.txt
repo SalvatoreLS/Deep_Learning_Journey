@@ -1,0 +1,11 @@
+Thumb<=>
+Zero<=>
+One<=>
+Two<=>
+Three<=>
+Four<=>
+Five<=>
+C<=>
+Horns<=>
+Fist<=>
+countdown<=>3
